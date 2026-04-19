@@ -41,3 +41,5 @@ A aplicação conta com recursos como:
 * HTML5
 * CSS3
 * JavaScript
+
+vizualização do site: https://lara-psi-pink.vercel.app
